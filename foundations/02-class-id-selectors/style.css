@@ -1,0 +1,18 @@
+.odd_class {
+    background-color: #e2647b;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#number_two {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.font_size_24 {
+    font-size: 24px;
+}
+
+#number_four {
+    background-color: #90ee90;
+    font-weight: bold;
+}
